@@ -6,6 +6,11 @@ key_bindings:
   - key: C
     mods: Control
     action: Copy
+# Font configuration
+font:
+  # Normal (roman) font face
+  normal:
+    family: MesloLGS NF
 colors:
   primary:
     background: "#282828"
